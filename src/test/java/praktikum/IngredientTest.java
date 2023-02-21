@@ -6,11 +6,11 @@ import org.junit.Test;
 
 public class IngredientTest {
 
-    Ingredient ingredient = new Ingredient(IngredientType.SAUCE, "hot sauce", 100);
+    private final Ingredient ingredient = new Ingredient(IngredientType.SAUCE, "hot sauce", 100);
 
     @Test
     public void getPrice() {
-        Assert.assertEquals(100, ingredient.getPrice(),0);
+        Assert.assertEquals(100, ingredient.getPrice(), 0);
     }
 
     @Test

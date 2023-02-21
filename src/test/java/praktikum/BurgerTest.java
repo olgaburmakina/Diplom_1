@@ -8,7 +8,6 @@ import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
 
 @RunWith(MockitoJUnitRunner.class)
-
 public class BurgerTest {
     Burger burger = new Burger();
     @Mock
@@ -44,7 +43,7 @@ public class BurgerTest {
         burger.addIngredient(ingr1);
         burger.addIngredient(ingr2);
         burger.moveIngredient(0, 1);
-        Assert.assertEquals(ingr2,burger.ingredients.get(0));
+        Assert.assertEquals(ingr2, burger.ingredients.get(0));
     }
 
     @Test
@@ -53,7 +52,7 @@ public class BurgerTest {
         burger.addIngredient(ingr1);
         Mockito.when(bun.getPrice()).thenReturn(5f);
         Mockito.when(ingr1.getPrice()).thenReturn(10f);
-        Assert.assertEquals(20.0, burger.getPrice(),0);
+        Assert.assertEquals(20.0, burger.getPrice(), 0);
     }
 
     @Test

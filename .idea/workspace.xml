@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c410591-6761-439d-ac50-ca5a2932ae0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Bun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/IngredientType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praktikum/Praktikum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/BunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/BurgerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/IngredientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/IngredientTypeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/praktikum/Bun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/praktikum/Bun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/praktikum/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/praktikum/Burger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/praktikum/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/praktikum/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/praktikum/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/praktikum/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/praktikum/Praktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/praktikum/Praktikum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/praktikum/BunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/praktikum/BunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/praktikum/BurgerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/praktikum/BurgerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/praktikum/IngredientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/praktikum/IngredientTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +50,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Bodro/IdeaProjects/hello-world"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.IngredientTest">
-    <configuration name="BunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Diplom_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praktikum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="praktikum" />
-      <option name="MAIN_CLASS_NAME" value="praktikum.BunTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="praktikum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IngredientTypeTest">
     <configuration name="BurgerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Diplom_1" />
       <extension name="coverage">
@@ -101,11 +90,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IngredientTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.IngredientTypeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IngredientTypeTest.checkFillingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.IngredientTypeTest" />
+      <option name="METHOD_NAME" value="checkFillingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IngredientTypeTest.checkSauceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="praktikum" />
+      <option name="MAIN_CLASS_NAME" value="praktikum.IngredientTypeTest" />
+      <option name="METHOD_NAME" value="checkSauceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IngredientTypeTest" />
+        <item itemvalue="JUnit.IngredientTypeTest.checkSauceTest" />
+        <item itemvalue="JUnit.IngredientTypeTest.checkFillingTest" />
         <item itemvalue="JUnit.IngredientTest" />
         <item itemvalue="JUnit.BurgerTest" />
-        <item itemvalue="JUnit.BunTest" />
       </list>
     </recent_temporary>
   </component>

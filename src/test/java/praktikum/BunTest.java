@@ -14,6 +14,6 @@ public class BunTest {
     @Test
     public void getPrice() {
         Bun bun = new Bun("Флюоресцентная булка R2-D3", 988);
-        Assert.assertEquals(988, bun.getPrice(),0);
+        Assert.assertEquals(988, bun.getPrice(), 0);
     }
 }
